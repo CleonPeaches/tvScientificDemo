@@ -1,6 +1,7 @@
 ### tvScientific Demo
 
 **Project Requirements**
+
 Define a function that returns the frequencies of the last digits of a sequence of nonnegative integers. Use only immutable data structures and immutable values.
 
 Given the sequence Seq(49, 10, 20, 5, 30, 185):  
@@ -64,7 +65,7 @@ I've used Pytest for Python, NUnit for .NET, and JUnit for Java. I've also used 
 
 **Linter?**
 
-Pylint for Python. Prettier is a nice package to have on top of a linter for consistent spacing/formatting.
+Pylint for Python. Prettier is a nice package to have on top of a linter for consistent spacing/formatting. I recently started learning Go and it seems to come with a built-in linter.
 
 **Command line utilities?**
 
