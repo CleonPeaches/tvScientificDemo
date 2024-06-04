@@ -3,10 +3,10 @@
 **Project Requirements**
 Define a function that returns the frequencies of the last digits of a sequence of nonnegative integers. Use only immutable data structures and immutable values.
 
-Given the sequence Seq(49, 10, 20, 5, 30, 185)
-9 is the last digit one time (in 49),
-0 is the last digit three times (in 10, 20 and 30)
-5 is the last digit two times (in 5 and 185)
+Given the sequence Seq(49, 10, 20, 5, 30, 185):  
+9 is the last digit one time (in 49)  
+0 is the last digit three times (in 10, 20 and 30)  
+5 is the last digit two times (in 5 and 185)  
 lastDigitCounts(Seq(49, 10, 20, 5, 30, 185)) = Map[Int, Int](9 -> 1, 0 -> 3, 5 -> 2) or something equivalent
 
 **Prerequisites**
