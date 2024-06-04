@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/drewengberson/Documents/Repos/scala_demo/target/scala-2.11/myscalaproject_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/drewengberson/Documents/Repos/scala_demo/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$lastDigitCounts$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/drewengberson/Documents/Repos/scala_demo/target/scala-2.11/classes/Main$$anonfun$lastDigitCounts$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$lastDigitCounts$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/drewengberson/Documents/Repos/scala_demo/target/scala-2.11/classes/Main$$anonfun$lastDigitCounts$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$lastDigitCounts$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/drewengberson/Documents/Repos/scala_demo/target/scala-2.11/classes/Main$$anonfun$lastDigitCounts$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/drewengberson/Documents/Repos/scala_demo/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/drewengberson/Documents/Repos/scala_demo/target/scala-2.11/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
